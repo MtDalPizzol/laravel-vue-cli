@@ -6,6 +6,8 @@
 
 Clone this repo, install the dependencies and serve your assets through Vue CLI. Then, go to your Laravel app address (Eg.: `http://laravel-vue-cli.localhost`)
 
+> **DON'T FORGET TO CREATE YOUR `resources/.env.local` FILE AND SET THE VUE_APP_ASSET_URL ENVIRONMENT VARIABLE.** Eg.: `VUE_APP_ASSET_URL=http://localhost:8080/`
+
 ```bash
 composer install
 cd resources
