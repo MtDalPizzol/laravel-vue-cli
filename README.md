@@ -1,6 +1,6 @@
 # Integrate Laravel with a Vue CLI app with Hot Module Replacement and no backend API
 
-> This repository is the result of an article I published at [DEV Community](https://dev.to/mtdalpizzol/integrate-laravel-and-vue-cli-app-with-hot-module-replacement-and-no-backend-api-4h76) which is replicated bellow. If this is useful to you, make sure to [follow me there](https://dev.to/mtdalpizzol).
+> This repository is the result of an article I published at [DEV Community](https://dev.to/mtdalpizzol/integrate-laravel-and-vue-cli-app-with-hot-module-replacement-and-no-backend-api-4h76) which is replicated below. If this is useful to you, make sure to [follow me there](https://dev.to/mtdalpizzol).
 
 ## How to use this repo
 
